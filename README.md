@@ -1,8 +1,7 @@
 # PhD. Maria Cidinaria  - Personal Website
 This project is a personal academic and professional website for PhD. Maria Cidinaria Silva Alves.
 
-#Link
-
+# Link
 https://cidinaria.github.io/
 
 ## Project structure
